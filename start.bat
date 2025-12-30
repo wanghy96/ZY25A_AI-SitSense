@@ -1,0 +1,1 @@
+streamlit run ./AI-Fitness-Coach.py
